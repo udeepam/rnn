@@ -1,3 +1,12 @@
+# General
+.DS_Store
+.vscode
+.idea
+.vector_cache
+
+# Directories
+.data
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
