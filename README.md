@@ -1,5 +1,5 @@
 # Recurrent Neural Networks
-This repository contains a tutorial for understanding the theory behind Recurrent Neural Networks (RNNs) and their applications.
+This repository contains a tutorial for understanding the theory behind Recurrent Neural Networks (RNNs) and their applications. The tutorial is adapted from the [PyTorch Seq2Seq Tutorial by Ben Trevett](https://github.com/bentrevett/pytorch-seq2seq).
 
 ## Tutorials
 
