@@ -5,7 +5,7 @@ This repository contains a tutorial for understanding the theory behind Recurren
 
 1. [Understanding Recurrent Neural Networks](https://github.com/udeepam/rnn/blob/master/1_rnn.ipynb)
 
-In this first tutorial we cover the inner workings of the Vanilla Recurrent Neural Network and it's limitations. We then discuss the Long Short-Term Memory model as a potential solution to the vanishing gradients problem in RNNs.
+In this first tutorial we cover the inner workings of the vanilla Recurrent Neural Network. We discuss the advantages and disadvantages of the model, and give a thorough mathematical overview of the vanishing and exploding gradients problems. We then introduce stacked RNNs and bidirectional RNNs. Finally we explain the inner working of the Long Short-Term Memory model, which is a potential solution to the vanishing gradients problem in vanilla RNNs.
 
 2. [Language Modelling using a Recurrent Neural Network](https://github.com/udeepam/rnn/blob/master/2_language_model.ipynb)
 
